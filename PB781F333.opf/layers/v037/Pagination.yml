@@ -98,74 +98,74 @@ annotations:
     reference: ''
     span:
       start: 17656
-      end: 19020
+      end: 19023
     note_ref: cf8281c52535404e91b765a88c715f3w
   0378df5644a54a0cbc319d2f84f1ebcc:
     imgnum: 533
     reference: ''
     span:
-      start: 19022
-      end: 20444
+      start: 19025
+      end: 20448
     note_ref: 7c1995b45f864cf5b8d8555f1726fa9c
   c96077f88be64c48a2e05fac925d7ba4:
     imgnum: 534
     reference: ''
     span:
-      start: 20446
-      end: 21832
+      start: 20450
+      end: 21836
     note_ref: 7c1995b45f864cf5b8d8555f1726fa9c
   b9396308662a47e9a1181bf31cd705f2:
     imgnum: 535
     reference: ''
     span:
-      start: 21834
-      end: 23221
+      start: 21838
+      end: 23225
     note_ref: 7c1995b45f864cf5b8d8555f1726fa9c
   b4fc4c23d9924f19b6b74ca828a2f471:
     imgnum: 536
     reference: ''
     span:
-      start: 23223
-      end: 24617
+      start: 23227
+      end: 24621
     note_ref: 7c1995b45f864cf5b8d8555f1726fa9c
   4b5f49ca4647401982a15e25262304c3:
     imgnum: 537
     reference: ''
     span:
-      start: 24619
-      end: 26007
+      start: 24623
+      end: 26011
     note_ref: 7c1995b45f864cf5b8d8555f1726fa9c
   55c5631ffb26427ead8c9b73c4874776:
     imgnum: 538
     reference: ''
     span:
-      start: 26009
-      end: 27119
+      start: 26013
+      end: 27123
     note_ref: 7c1995b45f864cf5b8d8555f1726fa9c
   7a928365ab0f4ca7add748acabaadf84:
     imgnum: 539
     reference: ''
     span:
-      start: 27121
-      end: 28991
+      start: 27125
+      end: 28995
   cf8281c52535404e91b765a88c715f3a:
     imgnum: 540
     reference: ''
     span:
-      start: 28993
-      end: 31898
+      start: 28997
+      end: 31902
   cf8281c52535404e91b765a88c715f3w:
     imgnum: 541
     reference: ''
     span:
-      start: 31900
-      end: 34652
+      start: 31904
+      end: 34656
   7c1995b45f864cf5b8d8555f1726fa9c:
     imgnum: 542
     reference: ''
     span:
-      start: 34654
-      end: 36290
+      start: 34658
+      end: 36294
 local_ids:
   6055747fb8ff4380812bc2507ef4cfa2: 200000
   2cd3e708e77d4263a3335541a50e3048: 200001
